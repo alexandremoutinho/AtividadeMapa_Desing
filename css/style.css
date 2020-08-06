@@ -1,0 +1,80 @@
+#ajudaicon{
+    width: 45px;
+    height: 40px;
+      
+    
+}
+#bt-menu{
+color: white;
+}
+#font-bar{
+    color: aliceblue;
+    font-style: unset;
+}
+#fraseinicial{
+    color:aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: initial;
+}
+.cabecalho-site {
+    background-image: url("../img/fundo01.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    color: #ffffff;
+    padding: 50px;
+    
+}
+.img-site {
+
+        background-image: url("../_imagens/rodape.jpg");
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-attachment: fixed;
+        color: #ffffff;
+        padding: 200px;
+        padding-bottom: 200px;
+        
+}
+.container-img{
+
+        text-align: center;
+}
+
+.container-foto{
+    float: left;
+    width: 350px;
+    height: 250px;
+    margin: 10px;
+    border: 5px solid #ffffff;
+    background-color: #ffffff;
+    box-shadow: 1px 1px 3px rgba(0, 0, 0, .4);
+    }
+h1{
+    font-size: 30px;
+    color: rgb(236, 176, 22);
+
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, .6);
+    padding: 0px;
+    margin-bottom: 0px;
+}
+h4{
+  
+    font-size: 40px;
+    color: rgb(250, 250, 249);
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, .10);
+    padding: 0px;
+    margin-bottom: 0px;
+}
+
+h2{
+    font-size: 20px;
+    
+}
+
+.conteudo-site {
+    padding: 200px;
+    padding-bottom: 200px;
+}
